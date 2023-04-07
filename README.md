@@ -25,3 +25,5 @@ composer require vlucas/phpdotenv
 ```
 
 ### 3. .env.sampleをコピーして.env作成
+
+### 4. index.phpでenv取れるか確認
